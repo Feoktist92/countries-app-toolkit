@@ -33,7 +33,7 @@ export const Header: React.FC = () => {
         <HeaderEl>
             <Container>
                 <Wrapper>
-                    <Title onClick={cleanUp}>Where is the world?</Title>
+                    <Title onClick={cleanUp}>Research all countries</Title>
                     <ThemeSwitcher />
                 </Wrapper>
             </Container>
